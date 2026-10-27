@@ -1,0 +1,11 @@
+/!stuff/
+/!backup/
+!backup/
+!backup
+files
+files/
+.vs
+IRC
+x64
+*.user
+version.h
